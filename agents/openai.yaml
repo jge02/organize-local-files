@@ -1,0 +1,4 @@
+interface:
+  display_name: "智能文件整理"
+  short_description: "按类型和修改时间安全归档本地文件，并处理重名"
+  default_prompt: "Use $organize-local-files to preview and safely organize my Downloads folder."
